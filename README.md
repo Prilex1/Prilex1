@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Prilex1
-- 👀 I’m interested in Arduino, Rasberry, HTML 5 and C# 
-- 🌱 I’m currently studying baccalaureate.
+- 👀 I’m interested in Arduino, Rand HAB Launches
+- 💻 I’m currently studying the international baccalaureate.
