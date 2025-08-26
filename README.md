@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Prilex1
 - 👀 I’m interested in Arduino, and HAB Launches
-- 💻 I’m currently studying the international baccalaureate.
+- 💻 I’m currently studying a degree on Satellite Engineering
